@@ -1,4 +1,3 @@
-To personalize your GitHub profile README, here is a version populated with your specific engineering expertise and current projects:
 
 ## Hi there 👋
 
