@@ -23,4 +23,3 @@ I am a Computer Science student at **Rutgers University** specializing in backen
 
 * **VisionVault**: An intelligent hybrid-cloud curation pipeline using edge AI to optimize cloud storage.
 * **EquiSpend**: A high-performance financial advocacy app featuring Redis-based caching to minimize latency.
-* **Ohmsynergy Transaction Engine**: A secure, high-throughput engine architected to eliminate race conditions in checkout workflows.
